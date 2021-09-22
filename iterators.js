@@ -53,13 +53,6 @@ const logHottestDays = function (temperatures, threshhold) {
 
 };
 
-// const logHottestDays = function (temperatures, threshhold) {
-//   temperatures
-//     .filter((t) => t > threshhold)
-//     .map((t) => (t - 32) * (5 / 9))
-//     .forEach((element) => console.log(element));
-// };
-
 /* Uncomment the following lines to test your code... */
 
 // logger([1, 2, 3, 4, 5, 6, 7]);

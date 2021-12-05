@@ -15,12 +15,12 @@ $ git clone https://github.com/<your_username>/JSFoundations-Arrows-Iterators.gi
 Install all the requirements:
 
 1. Navigate to the project root (you'll find a file called `package.json` there).
-2. Install the requirments using `yarn install`.
+2. Install the requirments using `npm install`.
 
 Run the tests:
 
 ```bash
-$ yarn test
+$ npm test
 ```
 
 This command will run the testing file and test your code to make sure it has all the required features.
